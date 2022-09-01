@@ -1,4 +1,6 @@
-(0) Will create a script that switches the current user to betty
+# Shell, permissions
+
+(0) Create a script that switches the current user to betty
 
 (1) Write a script that prints the effective username of the current user.
 
